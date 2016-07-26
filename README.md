@@ -2,7 +2,8 @@
 
 ## Open Source apps
 - [x] https://github.com/wireapp/wire-android
-- [ ] https://github.com/nickbutcher/plaid
+- [x] https://github.com/nickbutcher/plaid
+- [ ] https://github.com/googlesamples/android-UniversalMusicPlayer
 
 
 
