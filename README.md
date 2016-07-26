@@ -14,5 +14,5 @@
 
 
 
-10. Open Source apps
+1. Open Source apps
 - https://github.com/wireapp/wire-android
