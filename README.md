@@ -5,7 +5,8 @@
 - [x] https://github.com/nickbutcher/plaid
 - [x] https://github.com/googlesamples/android-UniversalMusicPlayer
 - [x] https://github.com/google/iosched
-- [ ] https://github.com/chrisbanes/philm
+- [x] https://github.com/chrisbanes/philm
+- [ ] https://github.com/rahulparsani/material-calculator
 
 
 
