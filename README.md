@@ -16,6 +16,9 @@
 ## Design
 - [x] https://material.google.com
 
+## Tutorials
+- [x] http://guides.codepath.com/android
+
 
 
 
