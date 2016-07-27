@@ -11,7 +11,7 @@
 - [x] https://github.com/romannurik/Android-WizardPager
 - [x] https://github.com/romannurik/Android-SwipeToDismiss
 - [x] https://github.com/lgvalle/Material-Animations
-- [x] https://github.com/daimajia/AnimationEasingFunctions
+- [x] https://github.com/daimajia/AndroidViewAnimations
 
 ## Design
 - [x] https://material.google.com
