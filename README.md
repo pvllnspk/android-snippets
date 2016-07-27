@@ -12,6 +12,9 @@
 - [x] https://github.com/romannurik/Android-SwipeToDismiss
 - [x] https://github.com/lgvalle/Material-Animations
 
+## Design
+- [ ] https://developer.android.com/design/material/index.html
+
 
 
 
