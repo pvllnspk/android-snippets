@@ -10,9 +10,7 @@
 - [x] https://github.com/rahulparsani/material-calculator
 - [x] https://github.com/romannurik/Android-WizardPager
 - [x] https://github.com/romannurik/Android-SwipeToDismiss
-
-## Useful repos
-- [ ] https://github.com/lgvalle/Material-Animations
+- [x] https://github.com/lgvalle/Material-Animations
 
 
 
