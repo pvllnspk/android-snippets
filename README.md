@@ -8,8 +8,8 @@
 - [x] https://github.com/chrisbanes/philm
 - [x] https://github.com/chrisbanes/cheesesquare
 - [x] https://github.com/rahulparsani/material-calculator
-- [ ] https://github.com/romannurik/Android-WizardPager
-- [ ] https://github.com/romannurik/Android-SwipeToDismiss
+- [x] https://github.com/romannurik/Android-WizardPager
+- [x] https://github.com/romannurik/Android-SwipeToDismiss
 
 ## Useful repos
 - [ ] https://github.com/lgvalle/Material-Animations
