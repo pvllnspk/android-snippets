@@ -13,7 +13,7 @@
 - [x] https://github.com/lgvalle/Material-Animations
 
 ## Design
-- [ ] https://developer.android.com/design/material/index.html
+- [x] https://material.google.com
 
 
 
